@@ -4,14 +4,8 @@
     width: 45%;
   margin: 20px 10px;
 } */
-.d-block{
-   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-   border-radius: 8px;
-}
-}
+
+
 
 body {
   font-family: 'Open Sans', serif;
@@ -160,4 +154,11 @@ a {
 
 a:hover, a:focus, a:active {
   color: #824027;
+}
+.d-block{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+   border-radius: 8px;
 }
