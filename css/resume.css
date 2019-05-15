@@ -22,6 +22,9 @@ h6 {
   text-transform: uppercase;
   color: #343a40;
 }
+.container-fluid{
+  padding: 7% 15%;
+}
 
 h1 {
   font-size: 6rem;
