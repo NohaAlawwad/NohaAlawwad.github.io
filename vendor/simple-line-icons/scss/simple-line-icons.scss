@@ -19,6 +19,7 @@ $simple-line-icon-prefix: "icon-" !default;
 }
 
 .#{$simple-line-icon-prefix} {
+  &fa-r-project,
   &user,
   &people,
   &user-female,
