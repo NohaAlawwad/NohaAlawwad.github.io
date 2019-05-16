@@ -157,4 +157,5 @@ a:hover, a:focus, a:active {
 }
 .carousel-item{
 text-align:center !important;
+    padding: 7% 15% !important;
 }
