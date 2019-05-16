@@ -2,16 +2,7 @@ body{font-family:'Open Sans',serif;padding-top:54px;color:#868e96}@media (min-wi
 .carousel-item{padding-left:19rem;}
 /* .carousel-item img {width:70%;} */
 .cert-icon{filter: invert(100%);}
-/* .carousel-item a{
-  display: block;
-  width:100%;
-} */
 .carousel-item .img-fluid {
   width:70%;
 }
-/* .carousel-item.active,
-.carousel-item-next,
-.carousel-item-prev {
-  display: block;
-} */
 /* .carousel-control-next-icon{: 50%;} */
