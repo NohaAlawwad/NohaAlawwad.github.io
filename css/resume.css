@@ -158,8 +158,8 @@ a:hover, a:focus, a:active {
 }
 
 
-  .carousel-item img{
-    width: 50%;
+  .container-item img{
+   max-width: 100%;
     height: auto;
 }
 
