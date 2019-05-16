@@ -156,11 +156,11 @@ a:hover, a:focus, a:active {
   color: #824027;
 }
 
-.carousel,
+.carousel-item,
 .carousel-inner {
      height: 50%;
 }
-.carousel img {
+.carousel-item img {
   position: absolute;
   top: 0;
   left: 0;
