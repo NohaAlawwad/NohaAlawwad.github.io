@@ -167,5 +167,5 @@ a:hover, a:focus, a:active {
   min-width: 50%;
   height: 50%;
   max-width: 100%;
-  text-align: center;
+  object-position:center;
 }
