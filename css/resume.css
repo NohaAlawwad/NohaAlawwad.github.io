@@ -160,6 +160,8 @@ a:hover, a:focus, a:active {
 .carousel-inner {
      height: 50%;
 }
-.carousel-item img {
+.carousel-item img{
+  object-fit:cover;
   object-position:center;
+  
 }
