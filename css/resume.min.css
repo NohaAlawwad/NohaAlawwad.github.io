@@ -2,12 +2,12 @@ body{font-family:'Open Sans',serif;padding-top:54px;color:#868e96}@media (min-wi
 .testimonial-image{padding-left:7rem;}
 /* .carousel-item img {width:70%;} */
 %
-.carousel-item .img-fluid {
+/* .carousel-item .img-fluid {
   width:40%;
-}
+} */
 .testimonial-image{
   width: 40%;
-  height: auto;
+  height: 40%;
   /* border-radius: 100%; */
   margin-bottom: 20px;
 }
