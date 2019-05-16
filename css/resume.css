@@ -156,18 +156,11 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
-#testimonials{
-  background-color: #ef8172;
+
+
+  .carousel-item img{
+    width: 100%;
+    height: auto;
 }
 
-.testimonial-image{
-  width: 10%;
-  border-radius: 100%;
-  margin-bottom: 20px;
-}
-
-.testimonial-text{
-  font-size: 3rem;
-  line-height: 1.5;
-}
 
