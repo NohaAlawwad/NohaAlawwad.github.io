@@ -155,8 +155,8 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
-.img-cert{
-  width: 10%;
-   border-radius: 15px;
-  text-align: center;
+
+.carousel,
+.carousel-inner {
+     height: 100vh;
 }
