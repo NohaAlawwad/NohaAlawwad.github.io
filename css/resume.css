@@ -64,6 +64,20 @@ h2 {
 .list-icons {
   font-size: 3rem;
 }
+#testimonials{
+  background-color: #ef8172;
+}
+
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin-bottom: 20px;
+}
+
+.testimonial-text{
+  font-size: 3rem;
+  line-height: 1.5;
+}
 
 .list-icons .list-inline-item i:hover {
   color: #BD5D38;
